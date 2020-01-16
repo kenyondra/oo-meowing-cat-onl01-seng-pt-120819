@@ -7,6 +7,6 @@ class Cat
 end   
 
 maru.name = "Maru"
-
+maru.meow 
 
  
